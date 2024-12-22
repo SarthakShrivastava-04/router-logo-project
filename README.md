@@ -5,5 +5,4 @@ A simple React app demonstrating **React Router** for building single-page appli
 ---
 
 ## Preview
-![App Screenshot]([./assets/screenshot.png](https://github.com/SarthakShrivastava-04/router-logo-project/blob/c5114c931c3efa50216e7b0fc47be1bb3e81ac48/screenshot.png))
-
+![App Screenshot](https://github.com/SarthakShrivastava-04/router-logo-project/blob/4d564fa47072d6c1d308cf46b047bac5af9ee738/screenshot.png)
